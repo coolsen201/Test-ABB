@@ -1,5 +1,5 @@
 # Assume psycopg2 installed on pip
-# Assume VSDB01 is Hostname, DB port number 5432, db name VSDB , user user1,
+# Assume VSDB01 is Hostname, DB port number 5432, db name VSDB , user user1 (Adminuser)
 # Assume http configured for 8080
 # Database configuration
 
